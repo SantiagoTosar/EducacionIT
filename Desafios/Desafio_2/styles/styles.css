@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+.tipo_letra{
+    font-family: 'Montserrat', sans-serif;
+}
+.noviembre{
+    font-weight: 600;
+    font-size: 50pt;
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 30px;
+    margin-top: -2%;
+    margin-left: -2%;
+    margin-right: -2%;
+}
+.black{
+    font-size: 148pt;
+    text-align: center;
+}
+.friday{
+    font-size: 163pt;
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 40px;
+    margin-left: -2%;
+    margin-right: -2%;
+}
+.descuntos{
+    font-size: 45pt;
+    text-align: center;
+
+}
