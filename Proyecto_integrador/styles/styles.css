@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Coiny&family=Roboto:wght@700&display=swap');
+/*Letras coiny y roboto*/
+
+h1{
+    font-family: 'Coiny';
+}
+h2{
+    font-family: 'Roboto';
+}
+h2 span{
+    font-family: 'Coiny';
+    font-size: 60px;
+}
